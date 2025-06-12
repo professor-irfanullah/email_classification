@@ -39,3 +39,18 @@ A machine learning model trained to classify emails as **spam** or **ham** (legi
 ```python
 pip install pandas scikit-learn nltk
 ```
+
+## 📊 Model Performance
+
+### Classification Metrics
+
+| Metric        | Ham  | Spam |
+| ------------- | ---- | ---- |
+| **Precision** | 0.98 | 0.95 |
+| **Recall**    | 0.98 | 0.94 |
+| **F1-Score**  | 0.98 | 0.95 |
+
+### Accuracy Scores
+
+- **Overall Test Accuracy**: `97.06%`
+- **Cross-Validation Accuracy**: `97.52%`
