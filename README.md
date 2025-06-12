@@ -12,10 +12,7 @@ A machine learning model trained to classify emails as **spam** or **ham** (legi
 
 - [Features](#-features)
 - [Installation](#-installation)
-- [Usage](#-usage)
 - [Model Performance](#-model-performance)
-- [Project Structure](#-project-structure)
-- [License](#-license)
 
 ---
 
